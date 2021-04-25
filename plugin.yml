@@ -1,6 +1,6 @@
 name: SkyBlockUI
 main: therealkizu\skyblockui\Loader
-version: 1.2.0
+version: 1.2.0-HoennPE
 api: 3.0.0
 
 softdepend:
@@ -9,8 +9,7 @@ softdepend:
 
 # Extras
 description: Manage your skyblock island in UI!
-author: TheRealKizu
-fork: princepines (HoennPE)
+author: TheRealKizu, princepines (HoennPE)
 
 # Permissions
 permissions:
