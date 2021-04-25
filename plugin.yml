@@ -3,15 +3,14 @@ main: therealkizu\skyblockui\Loader
 version: 1.2.0
 api: 3.0.0
 
-depend:
-  - SkyBlock
-
 softdepend:
   - RedSkyBlock
+  - SkyBlock
 
 # Extras
 description: Manage your skyblock island in UI!
 author: TheRealKizu
+fork: princepines (HoennPE)
 
 # Permissions
 permissions:
