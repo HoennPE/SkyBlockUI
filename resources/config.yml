@@ -11,7 +11,7 @@ isDeveloper: false
 # giantquartz - If you want to use the SkyBlock plugin by QiantQuartz.
 # redcraftgh - If you want to use RedSkyBlock by RedCraftGH.
 # WARNING: RedSkyBlock support is currently in development!
-skyblock-plugin: "giantquartz"
+skyblock-plugin: "redcraftgh"
 
 # Detailed Command Arguments
 # Enables '/isui create', etc. shortcuts
