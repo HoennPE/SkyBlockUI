@@ -17,7 +17,7 @@
 ## ⇁ Information
 
    * Written for [PocketMine-MP](https://github.com/pmmp/PocketMine-MP) and spoons
-   * Maintained by [@TheRealKizu](https://github.com/TheRealKizu)
+   * Maintained by [@TheRealKizu](https://github.com/TheRealKizu), [@princepines](https://github.com/Lycol50)
 
 <!--- FEATURES --->
 ## ⇁ Features
